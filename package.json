@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "adapterjs": "^0.15.4",
-    "rtcmulticonnection": "^3.6.8",
+    "rtcmulticonnection": "github:Adizbek/RTCMultiConnection#a0343be69da762b1afcc76d6de5206576da374e8",
     "url-parse": "^1.4.7",
     "vue": "^2.6.10"
   },
